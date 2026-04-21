@@ -1,26 +1,65 @@
-I am a passionate and driven Computer Science student with a strong interest in Data Analytics, Web Development, and AI-powered tools. As a fresher, I focus on building practical, real-world projects that showcase my ability to transform data into meaningful insights and create impactful digital solutions.
+<h1 align="center">Hi 👋, I'm Parineet Gupta</h1>
+<h3 align="center">🚀 Aspiring Data Analyst | 💻 Web Dev Explorer | 🎨 Creative Designer</h3>
 
-I have hands-on experience working with tools like Python, SQL, Jupyter Notebook, and Power BI, where I analyze datasets, perform data cleaning, and build interactive dashboards. Alongside this, I am actively exploring modern web development and experimenting with AI tools like Claude to enhance productivity and development workflows.
+---
 
-Beyond analytics and coding, I also have a creative side. I enjoy graphic designing and visual content creation, which helps me present data and ideas in a more engaging and professional way.
+## 🧑‍💻 About Me  
+💡 Passionate Computer Science student exploring **Data Analytics, Web Development & AI Tools**  
+📊 I love turning raw data into meaningful insights and interactive dashboards  
+🌐 Currently building small web projects & experimenting with modern technologies  
+🤖 Exploring AI tools like Claude to boost productivity  
+🎨 Also into graphic designing & visual storytelling  
 
-I believe in continuous learning and constantly improving my skills by building projects, exploring new technologies, and adapting to industry trends. My goal is to secure an opportunity where I can contribute, learn, and grow in the fields of data analytics and technology.
+---
 
-💡 What I’m Currently Doing
-📊 Working on data analysis projects and dashboards
-🌐 Learning and building small web development projects
-🤖 Exploring AI tools to improve efficiency and innovation
-🎨 Creating visually appealing designs and project presentations
+## 🚀 What I'm Doing  
+- 📊 Working on Data Analysis Projects  
+- 🌐 Learning Web Development  
+- 🤖 Exploring AI Tools  
+- 🎨 Designing creative visuals  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages & Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql,html,css,js" />
+</p>
+
+### 📊 Data Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=powerbi" />
+<img src="https://skillicons.dev/icons?i=anaconda" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 
-🛠️ Skills & Tools
-Languages: Python, SQL
-Tools: Power BI, Jupyter Notebook
-Concepts: Data Analysis, Data Cleaning, Visualization
-Other Interests: Web Development, AI Tools, Graphic Design
+## 🧠 Currently Learning  
+- Advanced Data Analytics  
+- Real-world Projects  
+- Full Stack Web Development  
+- AI-powered Tools  
+
+---
+
+## 🎯 Goals  
+- 🚀 Land an Internship in Data Analytics / Tech  
+- 📊 Build impactful projects  
+- 💡 Keep learning & growing  
+
+---
 
 
-🎯 Goals
-Gain hands-on industry experience through internships
-Build impactful projects that solve real-world problems
-Become a skilled Data Analyst / Tech Professional
+## ⚡ Fun Fact  
+👉 I combine **Data + Creativity + Tech** to build unique projects 🚀  
