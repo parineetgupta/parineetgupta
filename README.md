@@ -21,15 +21,6 @@
 ---
 
 
-### 📊 Data Tools  
-<p>
-<img src="https://skillicons.dev/icons?i=powerbi" />
-<img src="https://skillicons.dev/icons?i=anaconda" />
-</p>
-
----
-
-
 
 ## 🧠 Currently Learning  
 - Advanced Data Analytics  
